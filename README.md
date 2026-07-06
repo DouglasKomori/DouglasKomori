@@ -1,11 +1,11 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=200&section=header&text=Douglas&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20•%20Game%20Dev%20•%20Estudante%20de%20Ciência%20da%20Computação&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=200&section=header&text=Douglas&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20•%20Game%20Dev%20•%20Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18" />
 
 <!-- ============ TYPING ============ -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Opa!+Seja+bem-vindo(a)!+%F0%9F%91%8B;Transformando+ideias+em+software;Do+jogo+ao+sistema+desktop" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Hello%2C+Douglas+Komori+here;I%27m+21+years+old;Studying+Systems+Analysis+and+Development+-+Unoeste" alt="Typing SVG" />
 </a>
 
 </div>
@@ -18,7 +18,7 @@
 ```javascript
 const douglas = {
   pais: "Brasil 🇧🇷",
-  curso: "Análise Desenvolvimento de Sistemas (FIPP/Unoeste)",
+  curso: "Análise e Desenvolvimento de Sistemas (FIPP/Unoeste)",
   focoAtual: ["Sistema Web", "Sistemas desktop"],
   aprendendo: [".NET 10", "Automação"],
   filosofia: "Resolver problemas reais com código"
@@ -41,12 +41,12 @@ const douglas = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=8B5CF6&title_color=8B5CF6" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&hide_border=true&theme=tokyonight&title_color=8B5CF6&langs_count=8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DouglasKomori&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=8B5CF6&title_color=8B5CF6" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasKomori&layout=compact&hide_border=true&theme=tokyonight&title_color=8B5CF6&langs_count=8" />
 
 <br/>
 
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&hide_border=true&theme=tokyonight&fire=8B5CF6&currStreakLabel=8B5CF6&ring=8B5CF6" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DouglasKomori&hide_border=true&theme=tokyonight&fire=8B5CF6&currStreakLabel=8B5CF6&ring=8B5CF6" />
 
 </div>
 
@@ -55,7 +55,7 @@ const douglas = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=DouglasKomori&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -70,7 +70,9 @@ const douglas = {
 
 <!-- ============ SNAKE ============ -->
 <div align="center">
+
 <img src="https://raw.githubusercontent.com/DouglasKomori/DouglasKomori/output/snake.svg" alt="snake animation" />
+
 </div>
 
 <!-- ============ REDES SOCIAIS ============ -->
@@ -78,13 +80,13 @@ const douglas = {
 
 <div align="center">
 
-<a href="(https://www.linkedin.com/in/douglaskomori/)">
+<a href="https://www.linkedin.com/in/douglaskomori/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:douglassatoshi@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="(https://www.instagram.com/douglas_komori/)">
+<a href="https://www.instagram.com/douglas_komori/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
@@ -92,7 +94,7 @@ const douglas = {
 
 <!-- ============ VISITANTES ============ -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visitas+no+perfil&color=8B5CF6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=DouglasKomori&label=Visitas+no+perfil&color=8B5CF6&style=flat" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:8B5CF6&height=100&section=footer" />
