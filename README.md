@@ -38,17 +38,25 @@ const douglas = {
 
 <!-- ============ ESTATÍSTICAS ============ -->
 ## 📊 Estatísticas
+
 <div align="center">
+
 <img height="165" src="https://github-readme-stats-dun-delta-32.vercel.app/api?username=DouglasKomori&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true&icon_color=8B5CF6&title_color=8B5CF6" />
 <img height="165" src="https://github-readme-stats-dun-delta-32.vercel.app/api/top-langs/?username=DouglasKomori&layout=compact&hide_border=true&theme=tokyonight&title_color=8B5CF6&langs_count=8" />
+
 <br/>
+
 <img height="165" src="https://streak-stats.demolab.com?user=DouglasKomori&hide_border=true&theme=tokyonight&fire=8B5CF6&currStreakLabel=8B5CF6&ring=8B5CF6" />
+
 </div>
 
 <!-- ============ TROFÉUS ============ -->
 ## 🏆 Troféus
+
 <div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=DouglasKomori&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
+
 </div>
 
 <!-- ============ GRÁFICO DE ATIVIDADE ============ -->
@@ -56,7 +64,7 @@ const douglas = {
 
 <div align="center">
 
-<img width="100%" src="github-readme-stats-dun-delta-32.vercel.app/graph?username=DouglasKomori&bg_color=1a1b27&color=8B5CF6&line=6366F1&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DouglasKomori&bg_color=1a1b27&color=8B5CF6&line=6366F1&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
