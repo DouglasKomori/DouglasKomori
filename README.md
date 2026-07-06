@@ -64,7 +64,7 @@ const douglas = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&bg_color=1a1b27&color=8B5CF6&line=6366F1&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DouglasKomori&bg_color=1a1b27&color=8B5CF6&line=6366F1&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
