@@ -55,7 +55,7 @@ const douglas = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DouglasKomori&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-readme-stats-dun-delta-32.vercel.app/?username=DouglasKomori&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -64,7 +64,7 @@ const douglas = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=DouglasKomori&bg_color=1a1b27&color=8B5CF6&line=6366F1&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="github-readme-stats-dun-delta-32.vercel.app/graph?username=DouglasKomori&bg_color=1a1b27&color=8B5CF6&line=6366F1&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
