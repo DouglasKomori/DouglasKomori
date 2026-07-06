@@ -20,7 +20,7 @@ const douglas = {
   pais: "Brasil 🇧🇷",
   curso: "Análise e Desenvolvimento de Sistemas (FIPP/Unoeste)",
   focoAtual: ["Sistema Web", "Sistemas desktop"],
-  aprendendo: [".NET 10", "C+", "JS", "Automação"],
+  aprendendo: [".NET 10", "C+", "Automação"],
   filosofia: "Resolver problemas reais com código"
 };
 ```
