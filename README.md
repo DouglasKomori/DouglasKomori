@@ -70,9 +70,7 @@ const douglas = {
 
 <!-- ============ SNAKE ============ -->
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/SEU-USUARIO/SEU-USUARIO/output/snake.svg" alt="snake animation" />
-
+<img src="https://raw.githubusercontent.com/DouglasKomori/DouglasKomori/output/snake.svg" alt="snake animation" />
 </div>
 
 <!-- ============ REDES SOCIAIS ============ -->
