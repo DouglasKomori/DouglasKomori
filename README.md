@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=200&section=header&text=Douglas&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20•%20Game%20Dev%20•%20Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=200&section=header&text=Douglas&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20•%20System%20Web%20•%20Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18" />
 
 <!-- ============ TYPING ============ -->
 <a href="https://git.io/typing-svg">
