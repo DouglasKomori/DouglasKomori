@@ -11,7 +11,7 @@
 </div>
 
 <!-- ============ SOBRE MIM ============ -->
-## 🚀 Sobre mim
+## Sobre mim
 
 <img align="right" width="300" src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-41-716_512.gif" alt="coding gif" />
 
@@ -29,7 +29,7 @@ const douglas = {
 <br clear="right"/>
 
 <!-- ============ TECNOLOGIAS ============ -->
-## 🛠️ Linguagens e Ferramentas
+## Linguagens e Ferramentas
 
 <div align="center">
 
@@ -38,7 +38,7 @@ const douglas = {
 </div>
 
 <!-- ============ IA ============ -->
-## 🤖 IA no fluxo de trabalho
+## IA no fluxo de trabalho
 
 <div align="center">
 
@@ -51,7 +51,7 @@ Uso IA de forma consciente no dia a dia de desenvolvimento — acelerando tarefa
 </p>
 
 <!-- ============ ESTATÍSTICAS ============ -->
-## 📊 Estatísticas
+## Estatísticas
 
 <div align="center">
 
@@ -65,7 +65,7 @@ Uso IA de forma consciente no dia a dia de desenvolvimento — acelerando tarefa
 </div>
 
 <!-- ============ GRÁFICO DE ATIVIDADE ============ -->
-## 📈 Atividade
+## Atividade
 
 <div align="center">
 
@@ -81,7 +81,7 @@ Uso IA de forma consciente no dia a dia de desenvolvimento — acelerando tarefa
 </div>
 
 <!-- ============ REDES SOCIAIS ============ -->
-## 🌐 Vamos conversar?
+## Vamos conversar?
 
 <div align="center">
 
