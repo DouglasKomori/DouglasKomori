@@ -50,12 +50,6 @@ const douglas = {
 
 </div>
 
-<!-- ============ TROFÉUS ============ -->
-## 🏆 Troféus
-<div align="center">
-<img src="https://github-profile-trophy-one-flame.vercel.app/?username=DouglasKomori&theme=onedark&no-frame=true&column=7&margin-w=8&margin-h=8" />
-</div>
-
 <!-- ============ GRÁFICO DE ATIVIDADE ============ -->
 ## 📈 Atividade
 
