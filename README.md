@@ -1,7 +1,7 @@
 <!-- ============ HEADER ============ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=200&section=header&text=Douglas&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20•%20System%20Web%20•%20Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=200&section=header&text=Douglas&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20•%20Estudante%20de%20Análise%20e%20Desenvolvimento%20de%20Sistemas&descAlignY=58&descSize=18" />
 
 <!-- ============ TYPING ============ -->
 <a href="https://git.io/typing-svg">
@@ -19,8 +19,9 @@
 const douglas = {
   pais: "Brasil 🇧🇷",
   curso: "Análise e Desenvolvimento de Sistemas (FIPP/Unoeste)",
-  focoAtual: ["Sistema Web", "Sistemas desktop"],
-  aprendendo: [".NET 10", "C+", "Automação"],
+  foco: "Desenvolvimento Full Stack",
+  conhecimentos: ["C#/.NET", "JavaScript", "React", "Next.js", "Node.js", "Express", "C++"],
+  aprendendo: [".NET 10", "Next.js", "Automação"],
   filosofia: "Resolver problemas reais com código"
 };
 ```
@@ -32,9 +33,22 @@ const douglas = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,js,cpp,html,css,sqlite,mysql,git,github,vscode,visualstudio,docker,linux&theme=dark&perline=7" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,nextjs,nodejs,express,cpp,html,css,sqlite,mysql,git,github,vscode,visualstudio,docker,linux&theme=dark&perline=9" />
 
 </div>
+
+<!-- ============ IA ============ -->
+## 🤖 IA no fluxo de trabalho
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+
+</div>
+
+<p align="center">
+Uso IA de forma consciente no dia a dia de desenvolvimento — acelerando tarefas repetitivas e explorando soluções, mas sempre revisando e entendendo o código antes de aplicar.
+</p>
 
 <!-- ============ ESTATÍSTICAS ============ -->
 ## 📊 Estatísticas
