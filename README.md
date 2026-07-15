@@ -37,18 +37,6 @@ const douglas = {
 
 </div>
 
-<!-- ============ IA ============ -->
-## IA no fluxo de trabalho
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
-
-</div>
-
-<p align="center">
-Uso IA de forma consciente no dia a dia de desenvolvimento — acelerando tarefas repetitivas e explorando soluções, mas sempre revisando e entendendo o código antes de aplicar.
-</p>
 
 <!-- ============ ESTATÍSTICAS ============ -->
 ## Estatísticas
